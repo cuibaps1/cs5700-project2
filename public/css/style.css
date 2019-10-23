@@ -32,9 +32,18 @@ figure{
   height: 100%;
 }
 
+.site-footer {
+  background: #ffc107;
+}
+
+#footer-content {
+  background: #ffc107;
+}
+
 #fixed{
 
 }
+
 
 /*---Bootstrap padding fixed---*/
 [class*="col-"]{
